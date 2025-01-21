@@ -5,4 +5,4 @@ The meaning of plaptop is basiclly the guts of a laptop stuffed into a PC case t
 + Be the wierdist kid on the block
 
 For us we tested this with the hp 15d-u4016TX
-Btw this is an unfinished project e just left vause my friend blew up the mainboard accidentally
+Btw this is an unfinished project because my friend blew up the mainboard accidentally
