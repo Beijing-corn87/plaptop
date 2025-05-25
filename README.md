@@ -7,3 +7,4 @@ The meaning of plaptop is basiclly the guts of a laptop stuffed into a PC case t
 For us we tested this with the hp 15d-u4016TX.  
 
 Btw this is an unfinished project because my friend blew up the mainboard accidentally
+I think like half of the stuff I made does not work...
